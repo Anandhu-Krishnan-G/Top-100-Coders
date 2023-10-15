@@ -19,7 +19,7 @@ I'm a fourth-year computer science and engineering student at the College of Eng
 - Co-founder of Iniciohive, a freelance company with 5 members.
 - Found Many great people from the NASTech event by NASSCOM.
   
-#### As a Top 100 Member: `required field`
+#### As a Top 100 Member:
 
 - I exhibit the capacity to swiftly adapt to new coding concepts, languages, and technologies, reflecting my ability to stay ahead in the ever-evolving world of coding.
 - My proficiency extends to outstanding problem-solving skills, enabling me to tackle a wide array of coding challenges and algorithms with finesse.
